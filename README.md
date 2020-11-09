@@ -8,10 +8,10 @@ It is very good for beginners to learn about LED blinking using Arduino.
 
 Parts needed:
 
-1x Arduino (UNO)
+1x Any microcontroller board (UNO)
 
 1x Solderless Breadboard
 
-2x LEDs
+2x LEDs (any color)
 
 3x Wires (Male-to-male jumper)
